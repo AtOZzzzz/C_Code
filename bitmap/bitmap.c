@@ -4,7 +4,7 @@
 #include <fcntl.h>
 #include <unistd.h>
 #include <string.h>
-#include <errno.h>
+#include <errno.h>              //test
 #include <stdlib.h>
 #include <sys/mman.h>
 #include <linux/fb.h>
